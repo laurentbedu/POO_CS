@@ -8,7 +8,7 @@ namespace POO
 {
     public class CompteBancaire
     {
-        public string titulaire;
+        private string titulaire;
         public double solde;
         public string devise;
 
