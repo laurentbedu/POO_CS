@@ -3,7 +3,7 @@
   <Class Name="POO.CompteBancaire">
     <Position X="0.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAIAAAAIAAAAAAAAAAAgAAAAAAAAgAAAAAAQAAAA=</HashCode>
+      <HashCode>goAAAoAAAAIAAiAAAAIAAAgAAAAIAAAgAAAAAAQAAAA=</HashCode>
       <FileName>CompteBancaire.cs</FileName>
     </TypeIdentifier>
   </Class>
