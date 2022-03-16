@@ -14,7 +14,7 @@ namespace POO
             CompteBancaire compteRoger = new CompteBancaire(); //initialisation d'un nouvel objet
 
             // affectations de valeurs aux attributs
-            //comptePierre.titulaire = "Pierre";
+            comptePierre.titulaire = "Pierre";
             comptePierre.solde = 0;
             comptePierre.devise = "euros";
 
